@@ -5,7 +5,7 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   app.enableCors({
     origin: [
-      'http://localhost:3000',
+	  'https://test-form-react.onrender.com',
     ],
     methods: ["GET", "POST", "DELETE"],
     credentials: true,
