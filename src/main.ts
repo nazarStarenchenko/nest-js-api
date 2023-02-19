@@ -6,6 +6,7 @@ async function bootstrap() {
   app.enableCors({
     origin: [
 	  'https://test-form-react.onrender.com',
+	  "http:/nazarStarenchenko.github.io/form-test-react",
     ],
     methods: ["GET", "POST", "DELETE"],
     credentials: true,
