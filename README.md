@@ -1,5 +1,5 @@
 # Nest Js API
-## Was deployed to render.com: 
+## Was deployed on render.com: 
 ```
 https://test-nestjs-api.onrender.com
 ```
